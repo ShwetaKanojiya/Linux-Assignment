@@ -2,7 +2,7 @@
 
 Linux Command Line - a comprehensive reference for users who have mastered the basics and are ready to level up their command line skills. This guide dives deeper into essential Linux commands, explaining their purpose, common options, and practical usage.
 ### 
-> “In the world of Linux, the command line isn’t just a tool — it’s a language. And now, you speak it fluently.” 💬
+> “In the world of Linux, the command line isn’t just a tool — it’s a language. And now, you speak it fluently.” 
 
 ---
 
@@ -48,7 +48,7 @@ Create, copy, move, and delete files and directories:
 
 ### `rm` — Remove
 - `rm file.txt`: Deletes a file
-- `rm -r projects`: Deletes a folder and its contents (⚠️ irreversible)
+- `rm -r projects`: Deletes a folder and its contents (irreversible)
 
 ---
 
@@ -82,7 +82,7 @@ Monitor and manage your system:
 - `df -h`: Shows disk usage in human-readable format
 
 ### `sudo` — Super User Do
-- `sudo apt update`: Runs command with admin privileges (⚠️ use with caution)
+- `sudo apt update`: Runs command with admin privileges (use with caution)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🖥️ Linux Command Line: An Informative Guide
+#                                                                                🖥️ Linux Command Line 
 
 Linux Command Line - a comprehensive reference for users who have mastered the basics and are ready to level up their command line skills. This guide dives deeper into essential Linux commands, explaining their purpose, common options, and practical usage.
 ### 
